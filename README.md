@@ -4,4 +4,4 @@ In this assignment, we will implement an approximate N-Body simulation and paral
 
 task1 : 10 pts
 
-task2 : 
+task2 : 25.5 pts now
