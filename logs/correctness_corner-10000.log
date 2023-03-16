@@ -1,0 +1,9 @@
+Sequential
+iteration 0, tree construction: 0.002816ms, simulation: 0.152283ms
+iteration 1, tree construction: 0.001236ms, simulation: 0.154702ms
+iteration 2, tree construction: 0.001264ms, simulation: 0.147766ms
+iteration 3, tree construction: 0.001148ms, simulation: 0.137013ms
+iteration 4, tree construction: 0.001096ms, simulation: 0.125320ms
+TOTAL TIME: 0.724644ms
+total tree construction time: 0.007560ms
+total simulation time: 0.717084ms

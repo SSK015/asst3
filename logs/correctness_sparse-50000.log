@@ -1,0 +1,62 @@
+Sequential
+iteration 0, tree construction: 0.015217ms, simulation: 0.034561ms
+iteration 1, tree construction: 0.007521ms, simulation: 0.033051ms
+iteration 2, tree construction: 0.005741ms, simulation: 0.029749ms
+iteration 3, tree construction: 0.005252ms, simulation: 0.033665ms
+iteration 4, tree construction: 0.005364ms, simulation: 0.031529ms
+iteration 5, tree construction: 0.006379ms, simulation: 0.031990ms
+iteration 6, tree construction: 0.005459ms, simulation: 0.029391ms
+iteration 7, tree construction: 0.005407ms, simulation: 0.029710ms
+iteration 8, tree construction: 0.005273ms, simulation: 0.030189ms
+iteration 9, tree construction: 0.006091ms, simulation: 0.029828ms
+iteration 10, tree construction: 0.006483ms, simulation: 0.028242ms
+iteration 11, tree construction: 0.006236ms, simulation: 0.030068ms
+iteration 12, tree construction: 0.005584ms, simulation: 0.029623ms
+iteration 13, tree construction: 0.005645ms, simulation: 0.029928ms
+iteration 14, tree construction: 0.006103ms, simulation: 0.029041ms
+iteration 15, tree construction: 0.006258ms, simulation: 0.027970ms
+iteration 16, tree construction: 0.005949ms, simulation: 0.028886ms
+iteration 17, tree construction: 0.006101ms, simulation: 0.029336ms
+iteration 18, tree construction: 0.006367ms, simulation: 0.035798ms
+iteration 19, tree construction: 0.005592ms, simulation: 0.026919ms
+iteration 20, tree construction: 0.005765ms, simulation: 0.027046ms
+iteration 21, tree construction: 0.005353ms, simulation: 0.027149ms
+iteration 22, tree construction: 0.005288ms, simulation: 0.026669ms
+iteration 23, tree construction: 0.005361ms, simulation: 0.026754ms
+iteration 24, tree construction: 0.005249ms, simulation: 0.026952ms
+iteration 25, tree construction: 0.005326ms, simulation: 0.026549ms
+iteration 26, tree construction: 0.005303ms, simulation: 0.026241ms
+iteration 27, tree construction: 0.005894ms, simulation: 0.026846ms
+iteration 28, tree construction: 0.005710ms, simulation: 0.026527ms
+iteration 29, tree construction: 0.005753ms, simulation: 0.026866ms
+iteration 30, tree construction: 0.005484ms, simulation: 0.028611ms
+iteration 31, tree construction: 0.005294ms, simulation: 0.026918ms
+iteration 32, tree construction: 0.006601ms, simulation: 0.027923ms
+iteration 33, tree construction: 0.006306ms, simulation: 0.026162ms
+iteration 34, tree construction: 0.005473ms, simulation: 0.032392ms
+particle: 43562(1320.87, 2240.24) outside of min: (1259.39, 2170.17) max: (1329.53, 2240.24)
+Your Tree has Error!
+iteration 35, tree construction: 0.006242ms, simulation: 0.030661ms
+iteration 36, tree construction: 0.008082ms, simulation: 0.034052ms
+iteration 37, tree construction: 0.006388ms, simulation: 0.032724ms
+iteration 38, tree construction: 0.005893ms, simulation: 0.030713ms
+particle: 43562(1454.03, 2439.38) outside of min: (1371.77, 2286.76) max: (1524.54, 2439.38)
+Your Tree has Error!
+iteration 39, tree construction: 0.007368ms, simulation: 0.032162ms
+iteration 40, tree construction: 0.006039ms, simulation: 0.028703ms
+iteration 41, tree construction: 0.005298ms, simulation: 0.026534ms
+iteration 42, tree construction: 0.005985ms, simulation: 0.027102ms
+particle: 43562(1587.19, 2638.51) outside of min: (1484.15, 2473.43) max: (1649.42, 2638.51)
+Your Tree has Error!
+iteration 43, tree construction: 0.005885ms, simulation: 0.028674ms
+iteration 44, tree construction: 0.005833ms, simulation: 0.027156ms
+iteration 45, tree construction: 0.005422ms, simulation: 0.027664ms
+iteration 46, tree construction: 0.006860ms, simulation: 0.027834ms
+particle: 43562(1720.35, 2837.65) outside of min: (1596.54, 2660.11) max: (1774.3, 2837.65)
+Your Tree has Error!
+iteration 47, tree construction: 0.005527ms, simulation: 0.026612ms
+iteration 48, tree construction: 0.005945ms, simulation: 0.026833ms
+iteration 49, tree construction: 0.005987ms, simulation: 0.026663ms
+TOTAL TIME: 1.758106ms
+total tree construction time: 0.304937ms
+total simulation time: 1.453169ms
